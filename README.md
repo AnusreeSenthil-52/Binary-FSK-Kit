@@ -71,7 +71,7 @@ All signals are verified using an oscilloscope.
 
 * `BFSK-Simulation.pdsprj` – Complete BFSK modulator & demodulator schematic
 * `Kit-Hardware.jpg` – Hardware kit setup
-* `Report.pdf` – Detailed project report with theory and results
+* `Results.pdf` – Detailed project report with theory and results
 
 ---
 
